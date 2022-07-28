@@ -1,0 +1,20 @@
+html{
+    background-color: lightblue;
+}
+
+a:hover{
+    color: black;
+}
+
+a{
+    font-weight: bolder
+
+}
+
+table, tr, td{
+    border: 1px dashed black;
+}
+
+table{
+    width: 100%;
+}
