@@ -3,11 +3,24 @@ html{
 
 }
 
+h1{
+    text-align: center;
+    color: blue;
+
+}
+
+#logo{
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 #nav{
     text-align: center;
     
-    background-color: rgb(247, 112, 247);
+    background-color: rgba(177, 177, 177, 0.466);
     height: 40px;
     padding-top: 20px;
     
@@ -16,24 +29,3 @@ html{
 
 }
 
-.nav{
-
-
-    
-    
-    
-    margin-right: 12.5%;
-    margin-left: 12.5%;
-    height: 40px;
-    font-size: 100%;
-
-
-}
-
-
-
-
-nav{
-
-
-}
