@@ -1,12 +1,12 @@
 
 html{
-
+    background-color: blanchedalmond;
 }
 
 h1{
     text-align: center;
     color: blue;
-
+    font-family: 'Rubik', sans-serif;
 }
 
 #logo{
@@ -29,3 +29,30 @@ h1{
 
 }
 
+
+
+#main{
+    font-family: 'Tiro Gurmukhi', serif;
+    font-size: small;
+    color: black;
+}
+
+#divv{
+    width: 700px;
+    margin: auto;
+    box-sizing: border-box;
+    background-color: greenyellow;
+    
+    border-width: 5px 15px 5px 15px;
+    border-style: solid;
+    padding: 5px 10px 50px 10px;
+}
+
+
+#testing{
+    
+    
+
+
+
+}
