@@ -30,6 +30,14 @@ h1{
 }
 
 
+#top{
+    background-color: bisque;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+
+
+
+}
 
 #main{
     font-family: 'Tiro Gurmukhi', serif;
@@ -37,11 +45,11 @@ h1{
     color: black;
 }
 
-#divv{
-    width: 700px;
+#mainBodyWrapper{
+    width: 1500px;
     margin: auto;
     box-sizing: border-box;
-    background-color: greenyellow;
+    background-color: rgb(253, 242, 138); /*makes the background of the div with id divv GreenYellow*/
     
     border-width: 5px 15px 5px 15px;
     border-style: solid;
@@ -49,9 +57,14 @@ h1{
 }
 
 
-#testing{
-    
-    
+
+footer{
+    background-color: rgba(128, 128, 128, 0.61);
+}
+
+#footerWrapper{
+    height: 100px;
+    text-align: center;
 
 
 
