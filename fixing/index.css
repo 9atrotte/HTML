@@ -32,3 +32,15 @@ main {
     border-width: 2px;
     padding: 5px;
 }
+
+li {
+    display: inline;
+    margin-left: 20px;
+
+}
+
+
+
+a::grammar-error {
+    color: red;
+}
