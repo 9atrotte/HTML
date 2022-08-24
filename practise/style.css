@@ -1,34 +1,59 @@
+body {
+    background-color: rgb(253, 176, 189);
+}
+
 #navWrapper {
-    background-color: bisque;
+    background-color: rgba(105, 42, 93, 0.541);
     text-align: center;
     display: block;
     margin: auto;
-    width: 75%;
     border: 2px solid black;
     box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+
 }
 
 
 .navLink {
-    font-size: 50px;
+    font-size: 1.5em;
     margin-right: 12.5%;
     margin-left: 12.5%;
-
-
-
+    color: black;
+    padding: 0 2px 0 2px;
 
 }
+
+nav a:hover {
+    color: rgba(255, 255, 255, 0.507)
+}
+
+nav a:active {
+    text-decoration: none;
+}
+
+#empty:hover {
+    color: black;
+}
+
+#empty {
+    background-color: rgba(0, 255, 0, 0.589);
+}
+
+
+
 
 #wrapper {
     display: block;
     margin: auto;
-    width: 75%;
+    width: 100%;
     height: 100%;
-    background-color: aqua;
-
+    margin: 2px;
+    font-family: 'Roboto Slab', serif;
+    font-size: larger;
 }
 
+h1, h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-weight: normal;
 
-h1 {
-    margin-top: 0;
 }
