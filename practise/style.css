@@ -79,10 +79,10 @@ li:first-child {
 
 footer {
     border-top: 2px solid rgb(71, 71, 71);
-    margin-top: 75px;
+    margin-top: 100px;
     background-color: rgba(128, 128, 128, 0.377);
     padding-bottom: 15px;
-    height: 2000px;
+    height: 1500px;
 }
 
 .list-unstyled {
