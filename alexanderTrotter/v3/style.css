@@ -1,0 +1,112 @@
+html {
+    background-color: beige;
+}
+
+#wrapper {
+    margin: 0 15% 0 15%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+    background-color: rgb(113, 169, 214);
+}
+
+nav ul {
+    list-style: none;
+    display: inline;
+    margin: 0;
+}
+
+li {
+    float: left;
+    margin-left: 60px;
+    font-size: larger;
+    color: whitesmoke;
+    background-color: grey;
+    padding: 4px 6px 4px 6px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+li a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+li:hover {
+    background-color: rgba(185, 184, 184, 0.863);
+}
+
+#current {
+    background-color: rgba(204, 204, 204, 0.863);
+}
+
+#current:hover {
+    background-color: rgb(204, 204, 204, 0.863);
+}
+
+
+.firstLi {
+    margin-left: 15px;
+}
+
+nav {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+
+}
+
+
+#textWrapper {
+    margin: 0 15px 0 15px;
+}
+
+
+
+h1, h2, h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 5px;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+
+
+
+
+
+#aCupImg {
+    height: 380px;
+    width: 225px;
+    float: right;
+    margin-right: 100px;
+    padding-left: 10px;
+}
+
+#crossingLineImg {
+
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+    padding-left: 10px;
+
+
+}
+
+#teamNz {
+    float: right;
+    margin-top: 15px;
+}

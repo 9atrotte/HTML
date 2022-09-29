@@ -1,3 +1,9 @@
+html {
+    margin: 0 15% 0 15%;
+    border: 2px solid black;
+    padding: 5px;
+}
+
 nav ul {
     list-style: none;
     display: inline;
@@ -39,6 +45,10 @@ p {
 }
 
 
+
+
+
+
 #aCupImg {
     height: 380px;
     width: 225px;
@@ -55,4 +65,9 @@ p {
     padding-left: 10px;
 
 
+}
+
+#teamNz {
+    float: right;
+    margin-top: 15px;
 }
